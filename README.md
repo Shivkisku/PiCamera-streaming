@@ -24,12 +24,12 @@ python -m unittest discover .
 
 
 
-    1. test_camera.py - Tests if camera can be detected with OpenCV
+1. test_camera.py - Tests if camera can be detected with OpenCV
 
-       python -m unittest camera.test_camera
+    python -m unittest camera.test_camera
 
-    2. test_local_streaming.py - Tests Streaming and Viewing silently locally
+2. test_local_streaming.py - Tests Streaming and Viewing silently locally
 
-      python -m unittest test_local_streaming
+   python -m unittest test_local_streaming
 
 
